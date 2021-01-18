@@ -11,10 +11,10 @@ We at ACM Hack are introducing our newest quarterly program: hack.py. This is a 
 Facebook Event: https://www.facebook.com/events/901298890409036  
 Discord: http://acmurl.com/hack-discord
 
-Intro to Python 1 - [Slides](https://acmurl.com/hackpy1)
-Intro to Python 2 - [Slides](https://acmurl.com/hackpy1)
-Web Development w/ Django - [Slides](https://acmurl.com/hackpy1)
-Web Scraping - [Slides](https://acmurl.com/hackpy1)
-Working with Data - [Slides](https://acmurl.com/hackpy1)
-Data Science Applications - [Slides](https://acmurl.com/hackpy1)
-APIs w/ Python - [Slides](https://acmurl.com/hackpy1)
+Intro to Python 1 - [Slides](https://acmurl.com/hackpy1)  
+Intro to Python 2 - [Slides](https://acmurl.com/hackpy2)  
+Web Development w/ Django - [Slides](https://acmurl.com/hackpy3)  
+Web Scraping - [Slides](https://acmurl.com/hackpy4)   
+Working with Data - [Slides](https://acmurl.com/hackpy5)  
+Data Science Applications - [Slides](https://acmurl.com/hackpy6)  
+APIs w/ Python - [Slides](https://acmurl.com/hackpy7)  
